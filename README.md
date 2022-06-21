@@ -28,7 +28,7 @@ git remote add origin https://github.com/FabioCrippa/aula-git1.git
 git remote -v //este comando mostra se deu certo a conexão entre os respositórios
 git push -u origin main //este comando envia todas as modificações ao respositório remoto
 
-# Comandos git
+## Comandos git
 ## Comando para adicionar novas alterações ao arquivo
 >-git add "nome do arquivo"
 >-git commit -m "atualizando arquivo"
